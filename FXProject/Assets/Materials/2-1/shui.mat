@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shui
+  m_Shader: {fileID: 4800000, guid: 09e4318b204176b4492602e2fe6d152c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_2110:
+        m_Texture: {fileID: 2800000, guid: af3d0eccf4441664a9c588611b60c712, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _node_3637:
+        m_Texture: {fileID: 2800000, guid: 60eb4ecb3b60c3c44be6d5d87d1a1e39, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_5421:
+        m_Texture: {fileID: 2800000, guid: df87f49b2c633ba4d9bdad8e5a68091c, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _node_6212:
+        m_Texture: {fileID: 2800000, guid: 4f9407175c14c744db9522edd0e2752a, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _node_325: 1
+    - _node_5287: 4
+    - _node_7139: 1
+    m_Colors:
+    - _c1: {r: 0.7971698, g: 0.9015115, b: 1, a: 1}
+    - _c2: {r: 0.9009434, g: 0.9304335, b: 1, a: 1}

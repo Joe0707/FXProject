@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: huoyan
+  m_Shader: {fileID: 4800000, guid: f96ca52cb8d309640a2f6d9cb83c7c7e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_2644:
+        m_Texture: {fileID: 2800000, guid: c1f7219cef3f3564eb3f4719db557540, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_4907:
+        m_Texture: {fileID: 2800000, guid: d1ed5cb1154277e4ba1f42c7f97907f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_6276:
+        m_Texture: {fileID: 2800000, guid: e703e7fd6e7fe1344ac5df3cb3317626, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_9943:
+        m_Texture: {fileID: 2800000, guid: cb48909c20f88ba4eb8cd186b568526f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _node_2894: 1.5
+    - _node_3786: 1.5
+    - _node_4270: 2
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _node_259: {r: 1, g: 0.9394393, b: 0.5707547, a: 1}
+    - _node_9568: {r: 1, g: 0.5944024, b: 0.3176471, a: 1}
